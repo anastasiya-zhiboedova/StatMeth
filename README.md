@@ -26,6 +26,7 @@
 * [Анализ зависимостей](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_5_corr.pdf)
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_5)
 * [Дисперсионный анализ](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_6_anova.pdf)
+  * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_6)
 
 ## Домашнее задание (еженедельные)
 | Deadline |  Ссылка |
