@@ -35,6 +35,7 @@
 | 04:00 10.03.2020 | https://forms.gle/Zi6FrMEWrvLGknsUA |
 | 04:00 18.03.2020 | https://forms.gle/4YRMF2uKT9nWrvqW9 |
 | 04:00 25.03.2020 | https://forms.gle/k3uSvEQ2ZJRjciT49 |
+| 04:00 02.04.2020 | https://forms.gle/qw43qmT1vyqUqjJv6 |
 
 ## Домашнее задание (лабораторная)
 | Deadline |  Ссылка |
