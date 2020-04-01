@@ -1,8 +1,4 @@
 # psad-2020
-**31.03 занятия не будет!**
-
-В ближайшее время выложим бонусные лекции и ноутбуки, на случай, если вам скучно.
-
 
 Курс по методам прикладного статистического анализа данных, 2020
 
@@ -27,7 +23,7 @@
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_5)
 * [Дисперсионный анализ](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_6_anova.pdf)
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_6)
-
+* [Марковские модели, необязательный материал](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_7_mm.pdf)
 ## Домашнее задание (еженедельные)
 | Deadline |  Ссылка |
 | ------------- | ------------- |
