@@ -26,6 +26,8 @@
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_6)
 * [Марковские модели (необязательный материал)](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_7_mm.pdf)
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_7)
+* [Линейная регрессия](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_8_linreg.pdf)
+
 ## Домашнее задание (еженедельные)
 | Deadline |  Ссылка |
 | ------------- | ------------- |
