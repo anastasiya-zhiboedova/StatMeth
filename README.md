@@ -29,6 +29,7 @@
 * [Марковские модели (необязательный материал)](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_7_mm.pdf)
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_7)
 * [Линейная регрессия](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_8_linreg.pdf)
+  * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_8)
 
 ## Домашнее задание (еженедельные)
 | Deadline |  Ссылка |
@@ -40,6 +41,7 @@
 | 04:00 25.03.2020 | https://forms.gle/k3uSvEQ2ZJRjciT49 |
 | 04:00 02.04.2020 | https://forms.gle/qw43qmT1vyqUqjJv6 |
 | 04:00 09.04.2020 | https://forms.gle/encRGXcvNGUbfrGY6 |
+| 04:00 16.04.2020 | https://forms.gle/iY3cngpCDuqmwmN49 |
 
 ## Домашнее задание (лабораторная)
 | Deadline |  Ссылка |
