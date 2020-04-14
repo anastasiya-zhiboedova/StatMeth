@@ -1,7 +1,7 @@
 # psad-2020
-**UPD: обновил код встречи**
 
-**Трансляция начнется в 17.05:** https://meet.google.com/ytb-ohpi-vtp
+
+**Трансляция начнется в 17.10:** https://meet.google.com/odu-frec-pfe
 
 Курс по методам прикладного статистического анализа данных, 2020
 
@@ -30,7 +30,7 @@
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_7)
 * [Линейная регрессия](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_8_linreg.pdf)
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_8)
-
+* [Дополнения и обобщения регрессии](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_9_otherreg.pdf)
 ## Домашнее задание (еженедельные)
 | Deadline |  Ссылка |
 | ------------- | ------------- |
