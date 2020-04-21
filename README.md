@@ -31,6 +31,7 @@
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_8)
 * [Дополнения и обобщения регрессии](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_9_otherreg.pdf)
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_9)
+* [Анализ временных рядов](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_10_ts.pdf)
 ## Домашнее задание (еженедельные)
 | Deadline |  Ссылка |
 | ------------- | ------------- |
