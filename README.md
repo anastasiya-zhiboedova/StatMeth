@@ -32,6 +32,7 @@
 * [Дополнения и обобщения регрессии](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_9_otherreg.pdf)
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_9)
 * [Анализ временных рядов](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_10_ts.pdf)
+  * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_10)
 ## Домашнее задание (еженедельные)
 | Deadline |  Ссылка |
 | ------------- | ------------- |
@@ -44,6 +45,7 @@
 | 04:00 09.04.2020 | https://forms.gle/encRGXcvNGUbfrGY6 |
 | 04:00 16.04.2020 | https://forms.gle/iY3cngpCDuqmwmN49 |
 | 04:00 22.04.2020 | https://forms.gle/t4p2P3dztdk2ax1i8 |
+| 04:00 29.04.2020 | https://forms.gle/CjM3FN6tZZHHNN8n8 |
 
 ## Домашнее задание (лабораторная)
 | Deadline |  Ссылка |
