@@ -34,6 +34,7 @@
 * [Анализ временных рядов](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_10_ts.pdf)
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_10)
 ## Домашнее задание (еженедельные)
+Баллы за еженедельные задания по [ссылке](https://docs.google.com/spreadsheets/d/1NX5txS1a4fY45DVhvJKW1P-uL9otLjuuvduMXS8nyGE/edit?usp=sharing) 
 | Deadline |  Ссылка |
 | ------------- | ------------- |
 | 04:00 18.02.2020 | https://forms.gle/25kf6FMu9TDgaihb8 |
