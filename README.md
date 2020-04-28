@@ -1,6 +1,6 @@
 # psad-2020
 
-**Трансляция начнется в 17.05:** https://meet.google.com/big-fvbt-ugr
+**Трансляция начнется в 17.10** (ссылка будет)
 
 Курс по методам прикладного статистического анализа данных, 2020
 
@@ -33,6 +33,7 @@
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_9)
 * [Анализ временных рядов](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_10_ts.pdf)
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_10)
+* [Последовательный анализ](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_11_seq.pdf)
 ## Домашнее задание (еженедельные)
 Баллы за еженедельные задания по [ссылке](https://docs.google.com/spreadsheets/d/1NX5txS1a4fY45DVhvJKW1P-uL9otLjuuvduMXS8nyGE/edit?usp=sharing) 
 | Deadline |  Ссылка |
