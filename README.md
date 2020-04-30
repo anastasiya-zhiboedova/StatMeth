@@ -49,7 +49,7 @@
 | 04:00 16.04.2020 | https://forms.gle/iY3cngpCDuqmwmN49 |
 | 04:00 22.04.2020 | https://forms.gle/t4p2P3dztdk2ax1i8 |
 | 04:00 29.04.2020 | https://forms.gle/CjM3FN6tZZHHNN8n8 |
-| 04.00 09.05.2020 | https://forms.gle/Nqt1hny6hkRrbaks7 |
+| 04.00 08.05.2020 | https://forms.gle/Nqt1hny6hkRrbaks7 |
 
 ## Домашнее задание (лабораторная)
 | Deadline |  Ссылка |
