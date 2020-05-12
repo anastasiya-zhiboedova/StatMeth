@@ -1,6 +1,7 @@
 # psad-2020
 
 **[Лабораторная работа 2](lab2).**
+
 Дедлайн: 19 мая, 23.59.
 
 **[Как получить зачет](zachet.md)** 
@@ -58,3 +59,4 @@
 | Deadline |  Ссылка |
 | ------------- | ------------- |
 | 23:59 25.03.2020 | [лабораторная работа 1](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/lab/lab1)|
+| 23:59 19.05.2020 | [лабораторная работа 2](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/lab/lab2)|
