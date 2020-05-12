@@ -1,5 +1,7 @@
 # psad-2020
 
+**Трансляция начнется в 17.10**
+
 **[Результаты первого задания](https://docs.google.com/spreadsheets/d/1I1XptiPKtn6ss2U9sSDqETJbpVz_0laRVu8xMJRhR9Y/edit?usp=sharing)**
 
 По всем вопросам, связанным с оценками пишите на psad-2020@phystech.edu.
