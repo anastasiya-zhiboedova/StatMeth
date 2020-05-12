@@ -1,6 +1,8 @@
 # psad-2020
 
-**Трансляция начнется в 17.10: ** https://meet.google.com/deo-jcth-anc
+**[Лабораторная работа 2](lab2). Дедлайн: 19 мая, 23.59.**
+
+**[Как получить зачет](zachet.md)** 
 
 **[Результаты первого задания](https://docs.google.com/spreadsheets/d/1I1XptiPKtn6ss2U9sSDqETJbpVz_0laRVu8xMJRhR9Y/edit?usp=sharing)**
 
