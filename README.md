@@ -36,6 +36,7 @@
 * [Последовательный анализ](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_11_seq.pdf)
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_11)
 * [Причинность](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_12_caus.pdf)
+  * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_12)
   
 ## Домашнее задание (еженедельные)
 Баллы за еженедельные задания по [ссылке](https://docs.google.com/spreadsheets/d/1NX5txS1a4fY45DVhvJKW1P-uL9otLjuuvduMXS8nyGE/edit?usp=sharing) 
