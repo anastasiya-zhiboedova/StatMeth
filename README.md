@@ -1,5 +1,7 @@
 # psad-2020
 
+**Трансляция начнется в 17.10**
+
 **[Результаты первого задания](https://docs.google.com/spreadsheets/d/1I1XptiPKtn6ss2U9sSDqETJbpVz_0laRVu8xMJRhR9Y/edit?usp=sharing)**
 
 По всем вопросам, связанным с оценками пишите на psad-2020@phystech.edu.
@@ -30,6 +32,8 @@
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_10)
 * [Последовательный анализ](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_11_seq.pdf)
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_11)
+* [Причинность](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_12_caus.pdf)
+  
 ## Домашнее задание (еженедельные)
 Баллы за еженедельные задания по [ссылке](https://docs.google.com/spreadsheets/d/1NX5txS1a4fY45DVhvJKW1P-uL9otLjuuvduMXS8nyGE/edit?usp=sharing) 
 | Deadline |  Ссылка |
