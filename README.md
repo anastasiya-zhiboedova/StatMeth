@@ -1,5 +1,11 @@
 # psad-2020
 
+**[Лабораторная работа 2](lab/lab2)**
+
+Дедлайн: 19 мая, 23.59.
+
+**[Как получить зачет](zachet.md)** 
+
 **[Результаты первого задания](https://docs.google.com/spreadsheets/d/1I1XptiPKtn6ss2U9sSDqETJbpVz_0laRVu8xMJRhR9Y/edit?usp=sharing)**
 
 По всем вопросам, связанным с оценками пишите на psad-2020@phystech.edu.
@@ -30,6 +36,9 @@
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_10)
 * [Последовательный анализ](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_11_seq.pdf)
   * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_11)
+* [Причинность](https://github.com/Intelligent-Systems-Phystech/psad-2020/raw/master/slides/lecture_12_caus.pdf)
+  * [Ноутбуки](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/notebooks/sem_12)
+  
 ## Домашнее задание (еженедельные)
 Баллы за еженедельные задания по [ссылке](https://docs.google.com/spreadsheets/d/1NX5txS1a4fY45DVhvJKW1P-uL9otLjuuvduMXS8nyGE/edit?usp=sharing) 
 | Deadline |  Ссылка |
@@ -45,8 +54,10 @@
 | 04:00 22.04.2020 | https://forms.gle/t4p2P3dztdk2ax1i8 |
 | 04:00 29.04.2020 | https://forms.gle/CjM3FN6tZZHHNN8n8 |
 | 04.00 08.05.2020 | https://forms.gle/Nqt1hny6hkRrbaks7 |
+| 04.00 19.05.2020 | https://forms.gle/GRiMhbLwYrjHmBAJ7 |
 
 ## Домашнее задание (лабораторная)
 | Deadline |  Ссылка |
 | ------------- | ------------- |
 | 23:59 25.03.2020 | [лабораторная работа 1](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/lab/lab1)|
+| 23:59 19.05.2020 | [лабораторная работа 2](https://github.com/Intelligent-Systems-Phystech/psad-2020/tree/master/lab/lab2)|
